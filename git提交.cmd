@@ -9,9 +9,6 @@ pause
 
 git commit -m '%input%'
 
-
 @echo on
+
 git push origin main
-
-
-pause
